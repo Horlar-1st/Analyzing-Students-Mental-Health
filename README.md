@@ -21,3 +21,9 @@ Here is a data description of the columns you may find helpful.
 | `todep`         | Total score of depression (PHQ-9 test)           |
 | `tosc`          | Total score of social connectedness (SCS test)   |
 | `toas`          | Total score of acculturative stress (ASISS test) |
+
+## How to Use
+---
+- Download the repository as a zip file
+- Extract the files
+- Run the `notebook.ipynb`. It is a Jupyter notebook. 
