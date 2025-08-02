@@ -1,4 +1,4 @@
-# Analyzing-Students-Mental-Health
+## Analyzing-Students-Mental-Health
 ---
 <img width="20%" align="right" alt="Github" src="https://github.com/Horlar-1st/Analyzing-Students-Mental-Health/blob/main/mentalhealth.jpg"/> 
 
@@ -26,4 +26,4 @@ Here is a data description of the columns you may find helpful.
 ---
 - Download the repository as a zip file
 - Extract the files
-- Run the `notebook.ipynb`. It is a Jupyter notebook. 
+- Run the `notebook.ipynb`. It is an SQL code on Jupyter notebook
