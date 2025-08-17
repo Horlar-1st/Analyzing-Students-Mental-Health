@@ -22,6 +22,24 @@ Here is a data description of the columns you may find helpful.
 | `tosc`          | Total score of social connectedness (SCS test)   |
 | `toas`          | Total score of acculturative stress (ASISS test) |
 
+🔎 What the SQL Query Does
+
+1. Filters data: Only includes students whose inter_dom = 'Inter' (likely meaning international students).
+
+2. Groups data: Groups the remaining students by the column stay (this could represent length of stay, type of stay, or duration).
+
+3. Counts students: For each stay group, it counts how many international students there are.
+
+4. Computes averages: It calculates the average values of:
+todep → stored as average_phq (maybe related to a PHQ depression score).
+tosc → stored as average_scs (possibly a social connectedness score).
+toas → stored as average_as (maybe an anxiety score or adjustment score).
+
+5. Orders results: Displays results in descending order of stay.
+
+
+
+
 ## How to Use
 ---
 - Download the repository as a zip file
