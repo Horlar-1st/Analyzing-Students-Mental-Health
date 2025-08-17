@@ -22,6 +22,13 @@ Here is a data description of the columns you may find helpful.
 | `tosc`          | Total score of social connectedness (SCS test)   |
 | `toas`          | Total score of acculturative stress (ASISS test) |
 
+📝 The Question this Query Answers
+
+“Among international students, how many are there in each stay category, and what are their average PHQ, SCS, and AS scores for each group?”
+
+“For international students, how does their stay status relate to both their group size and their average well-being scores (PHQ, SCS, and AS)? Specifically, how many international students fall into each stay category, and what are their average PHQ, SCS, and AS scores?”
+
+
 🔎 What the SQL Query Does
 
 1. Filters data: Only includes students whose inter_dom = 'Inter' (likely meaning international students).
