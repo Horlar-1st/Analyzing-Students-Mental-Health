@@ -30,9 +30,9 @@ Here is a data description of the columns you may find helpful.
 - For international students, how does their stay status relate to both their group size and their average well-being scores (PHQ, SCS, and AS)? Specifically, how many international students fall into each stay category, and what are their average PHQ, SCS, and AS scores?
 
 
-🔎 What the SQL Query Does
+## 🔎 What the SQL Query Does
 
-1. Filters data: Only includes students whose inter_dom = 'Inter' (likely meaning international students).
+1. Filters data: Only includes students whose inter_dom = `'Inter'` (likely meaning international students).
 
 2. Groups data: Groups the remaining students by the column stay (this could represent length of stay, type of stay, or duration).
 
