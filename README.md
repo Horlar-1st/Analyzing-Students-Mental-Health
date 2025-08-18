@@ -39,9 +39,9 @@ Here is a data description of the columns you may find helpful.
 3. Counts students: For each stay group, it counts how many international students there are.
 
 4. Computes averages: It calculates the average values of:
-todep → stored as average_phq (maybe related to a PHQ depression score).
-tosc → stored as average_scs (possibly a social connectedness score).
-toas → stored as average_as (maybe an anxiety score or adjustment score).
+ - `todep` → stored as `average_phq` (maybe related to a PHQ depression score).
+ - `tosc` → stored as `average_scs` (possibly a social connectedness score).
+ - `toas` → stored as `average_as` (maybe an anxiety score or adjustment score).
 
 5. Orders results: Displays results in descending order of stay.
 
