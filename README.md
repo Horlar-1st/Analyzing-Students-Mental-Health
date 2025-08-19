@@ -32,9 +32,9 @@ Here is a data description of the columns you may find helpful.
 
 ## 🔎 What the SQL Query Does
 
-1. Filters data: Only includes students whose `inter_dom` = `'Inter'` (international students).
+1. Filters data: Only includes students whose `inter_dom` = `'Inter'` (meaning international students).
 
-2. Groups data: Groups the remaining students by the column stay (this could represent length of stay, type of stay, or duration).
+2. Groups data: Groups the remaining students by the column `stay` (which represent length of stay in years).
 
 3. Counts students: For each stay group, it counts how many international students there are.
 
