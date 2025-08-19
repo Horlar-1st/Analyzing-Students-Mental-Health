@@ -36,7 +36,7 @@ Here is a data description of the columns you may find helpful.
 
 2. Groups data: Groups the remaining students by the column `stay` (which represent length of stay in years).
 
-3. Counts students: For each stay group, it counts how many international students there are.
+3. Counts students: For each `stay` group, it counts how many international students (`'Inter'`) there are.
 
 4. Computes averages: It calculates the average values of:
  - `todep` → stored as `average_phq` (maybe related to a PHQ depression score).
