@@ -53,3 +53,10 @@ Here is a data description of the columns you may find helpful.
 - Download the repository as a zip file
 - Extract the files
 - Run the `notebook.ipynb`. It is an SQL code on Jupyter notebook
+  
+
+
+## 🙌 Credits
+
+This project was completed as part of a **[DataCamp](https://www.datacamp.com/)** course.  
+All datasets and instructions were provided by DataCamp, while the implementation and analysis are my own.
