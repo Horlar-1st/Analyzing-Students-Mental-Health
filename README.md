@@ -59,4 +59,4 @@ Here is a data description of the columns you may find helpful.
 ## 🙌 Credits
 
 This project was completed as part of a **[DataCamp](https://www.datacamp.com/datalab/w/ac1a428f-5eb6-4c27-9511-bb7377860d8d/edit)** course.  
-All datasets and instructions were provided by DataCamp, while the implementation and analysis are my own.
+All datasets and instructions were provided by DataCamp, while the implementation and analysis are mine based on the instructions given.
