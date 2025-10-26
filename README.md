@@ -1,4 +1,4 @@
-## Analyzing-Students-Mental-Health
+## 🧠 Analyzing-Students-Mental-Health
 ---
 <img width="20%" align="right" alt="Github" src="https://github.com/Horlar-1st/Analyzing-Students-Mental-Health/blob/main/mentalhealth.jpg"/> 
 
