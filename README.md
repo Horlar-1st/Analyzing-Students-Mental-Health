@@ -53,7 +53,7 @@ Analyzing‑Students‑Mental‑Health/
 ├── student.csv             # Dataset to work on
 ├── mentalhealth.jpg       # Image
 └── README.md               # Project overview, how to run, tools used, etc.
-
+```
 
 ## How to Use
 ---
