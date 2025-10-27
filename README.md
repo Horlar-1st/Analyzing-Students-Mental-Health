@@ -46,6 +46,7 @@ Here is a data description of the columns you may find helpful.
 5. Orders results: Displays results in descending order of stay.
 
 ## 📁 Repository Structure 
+
 ```
 Analyzing‑Students‑Mental‑Health/
 │
