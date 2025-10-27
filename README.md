@@ -45,13 +45,13 @@ Here is a data description of the columns you may find helpful.
 
 5. Orders results: Displays results in descending order of stay.
 
-## Structure 
+## 📁 Repository Structure 
 ```
 Analyzing‑Students‑Mental‑Health/
 │
 ├── notebook.ipynb          # Python notebook containing the SQL Queries 
 ├── student.csv             # Dataset to work on
-├── mentalhealth.jpg       # Image
+├── mentalhealth.jpg        # Image
 └── README.md               # Project overview, how to run, tools used, etc.
 ```
 
